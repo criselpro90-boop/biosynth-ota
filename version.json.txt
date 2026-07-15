@@ -1,0 +1,4 @@
+{
+  "version": 2,
+  "url": "https://raw.githubusercontent.com/TU_USUARIO/biosynth-ota/main/firmware_v2.bin"
+}
