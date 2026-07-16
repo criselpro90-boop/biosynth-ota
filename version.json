@@ -1,2 +1,4 @@
-
-{"version": 3, "url": "[https://raw.githubusercontent.com/criselpro90-boop/biosynth-ota/main/firmware.bin](https://raw.githubusercontent.com/criselpro90-boop/biosynth-ota/main/firmware.bin)"}
+{
+  "version": 3,
+  "url": "https://raw.githubusercontent.com/criselpro90-boop/biosynth-ota/main/firmware.bin"
+}
